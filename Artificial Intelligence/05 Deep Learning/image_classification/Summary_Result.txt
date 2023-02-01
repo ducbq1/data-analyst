@@ -1,0 +1,16 @@
+MHI
+	R50_split_by_sub_lr0.003		Acc@1 65.463 Acc@5 94.413 Acc@10 99.436
+	R50_split_by_env_lr0.003:		Acc@1 68.563 Acc@5 97.239 Acc@10 99.887			wandb/run-20220606_084753-2x9wp9yq
+	R18_split_by_sub_lr0.003:		Acc@1 66.253 Acc@5 94.526 Acc@10 99.549 		run-20220606_110737-ceb5z0qy
+	R18_split_by_env_lr0.003:		Acc@1 65.465 Acc@5 95.437 Acc@10 99.493			wandb/run-20220606_101049-3t0jtkpx	
+
+GAF
+	resnet18_split_by_sub_acc: Acc@1 68.923 Acc@5 97.236 Acc@10 99.831
+	resnet18_split_by_sub_gyr: Acc@1 70.502 Acc@5 98.421 Acc@10 100.000
+	resnet18_split_by_env_acc: Acc@1 75.338 Acc@5 97.635 Acc@10 99.775
+	resnet18_split_by_env_gyr: Acc@1 77.196 Acc@5 98.311 Acc@10 99.887
+	resnet50_split_by_sub_acc: Acc@1 68.979 Acc@5 97.688 Acc@10 99.774
+	resnet50_split_by_sub_gyr: Acc@1 70.558 Acc@5 98.534 Acc@10 99.887
+	resnet50_split_by_env_acc: Acc@1 75.901 Acc@5 98.761 Acc@10 99.775
+	resnet50_split_by_env_gyr: Acc@1 76.914 Acc@5 98.423 Acc@10 99.944
+

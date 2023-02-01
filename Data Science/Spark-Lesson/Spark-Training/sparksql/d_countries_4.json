@@ -1,0 +1,215 @@
+{"iso_code":"IND","continent":"Asia","location":"India","population":1.380004385E9,"median_age":28.2,"gdp_per_capita":6426.674,"hospital_beds_per_thousand":0.53,"life_expectancy":69.66}
+{"iso_code":"MMR","continent":"Asia","location":"Myanmar","population":5.4409794E7,"median_age":29.1,"gdp_per_capita":5591.597,"hospital_beds_per_thousand":0.9,"life_expectancy":67.13}
+{"iso_code":"IMN","continent":"Europe","location":"Isle of Man","population":85032.0,"life_expectancy":81.4}
+{"iso_code":"SVN","continent":"Europe","location":"Slovenia","population":2078932.0,"median_age":44.5,"gdp_per_capita":31400.84,"hospital_beds_per_thousand":4.5,"life_expectancy":81.32}
+{"iso_code":"ABW","continent":"North America","location":"Aruba","population":106766.0,"median_age":41.2,"gdp_per_capita":35973.781,"life_expectancy":76.29}
+{"iso_code":"ISR","continent":"Asia","location":"Israel","population":8655541.0,"median_age":30.6,"gdp_per_capita":33132.32,"hospital_beds_per_thousand":2.99,"life_expectancy":82.97}
+{"iso_code":"GMB","continent":"Africa","location":"Gambia","population":2416664.0,"median_age":17.5,"gdp_per_capita":1561.767,"hospital_beds_per_thousand":1.1,"life_expectancy":62.05}
+{"iso_code":"MNP","continent":"Oceania","location":"Northern Mariana Islands","population":57557.0,"life_expectancy":76.74}
+{"location":"International"}
+{"iso_code":"KWT","continent":"Asia","location":"Kuwait","population":4270563.0,"median_age":33.7,"gdp_per_capita":65530.537,"hospital_beds_per_thousand":2.0,"life_expectancy":75.49}
+{"iso_code":"FIN","continent":"Europe","location":"Finland","population":5540718.0,"median_age":42.8,"gdp_per_capita":40585.721,"hospital_beds_per_thousand":3.28,"life_expectancy":81.91}
+{"iso_code":"PRY","continent":"South America","location":"Paraguay","population":7132530.0,"median_age":26.5,"gdp_per_capita":8827.01,"hospital_beds_per_thousand":1.3,"life_expectancy":74.25}
+{"iso_code":"SLB","continent":"Oceania","location":"Solomon Islands","population":686878.0,"median_age":20.8,"gdp_per_capita":2205.923,"hospital_beds_per_thousand":1.4,"life_expectancy":73.0}
+{"iso_code":"USA","continent":"North America","location":"United States","population":3.31002647E8,"median_age":38.3,"gdp_per_capita":54225.446,"hospital_beds_per_thousand":2.77,"life_expectancy":78.86}
+{"iso_code":"BDI","continent":"Africa","location":"Burundi","population":1.1890781E7,"median_age":17.5,"gdp_per_capita":702.225,"hospital_beds_per_thousand":0.8,"life_expectancy":61.58}
+{"iso_code":"SVK","continent":"Europe","location":"Slovakia","population":5459643.0,"median_age":41.2,"gdp_per_capita":30155.152,"hospital_beds_per_thousand":5.82,"life_expectancy":77.54}
+{"iso_code":"AGO","continent":"Africa","location":"Angola","population":3.2866268E7,"median_age":16.8,"gdp_per_capita":5819.495,"life_expectancy":61.15}
+{"iso_code":"SGP","continent":"Asia","location":"Singapore","population":5850343.0,"median_age":42.4,"gdp_per_capita":85535.383,"hospital_beds_per_thousand":2.4,"life_expectancy":83.62}
+{"iso_code":"HND","continent":"North America","location":"Honduras","population":9904608.0,"median_age":24.9,"gdp_per_capita":4541.795,"hospital_beds_per_thousand":0.7,"life_expectancy":75.27}
+{"iso_code":"IRN","continent":"Asia","location":"Iran","population":8.3992953E7,"median_age":32.4,"gdp_per_capita":19082.62,"hospital_beds_per_thousand":1.5,"life_expectancy":76.68}
+{"iso_code":"MSR","continent":"North America","location":"Montserrat","population":4999.0,"life_expectancy":74.16}
+{"iso_code":"CPV","continent":"Africa","location":"Cape Verde","population":555988.0,"median_age":25.7,"gdp_per_capita":6222.554,"hospital_beds_per_thousand":2.1,"life_expectancy":72.98}
+{"iso_code":"DJI","continent":"Africa","location":"Djibouti","population":988002.0,"median_age":25.4,"gdp_per_capita":2705.406,"hospital_beds_per_thousand":1.4,"life_expectancy":67.11}
+{"iso_code":"POL","continent":"Europe","location":"Poland","population":3.7846605E7,"median_age":41.8,"gdp_per_capita":27216.445,"hospital_beds_per_thousand":6.62,"life_expectancy":78.73}
+{"iso_code":"COL","continent":"South America","location":"Colombia","population":5.0882884E7,"median_age":32.2,"gdp_per_capita":13254.949,"hospital_beds_per_thousand":1.71,"life_expectancy":77.29}
+{"iso_code":"HRV","continent":"Europe","location":"Croatia","population":4105268.0,"median_age":44.0,"gdp_per_capita":22669.797,"hospital_beds_per_thousand":5.54,"life_expectancy":78.49}
+{"iso_code":"SMR","continent":"Europe","location":"San Marino","population":33938.0,"gdp_per_capita":56861.47,"hospital_beds_per_thousand":3.8,"life_expectancy":84.97}
+{"iso_code":"SYR","continent":"Asia","location":"Syria","population":1.7500657E7,"median_age":21.7,"hospital_beds_per_thousand":1.5,"life_expectancy":72.7}
+{"iso_code":"MYS","continent":"Asia","location":"Malaysia","population":3.2365998E7,"median_age":29.9,"gdp_per_capita":26808.164,"hospital_beds_per_thousand":1.9,"life_expectancy":76.16}
+{"iso_code":"FRO","continent":"Europe","location":"Faeroe Islands","population":48865.0,"life_expectancy":80.67}
+{"iso_code":"GNQ","continent":"Africa","location":"Equatorial Guinea","population":1402985.0,"median_age":22.4,"gdp_per_capita":22604.873,"hospital_beds_per_thousand":2.1,"life_expectancy":58.74}
+{"iso_code":"MEX","continent":"North America","location":"Mexico","population":1.28932753E8,"median_age":29.3,"gdp_per_capita":17336.469,"hospital_beds_per_thousand":1.38,"life_expectancy":75.05}
+{"iso_code":"PAK","continent":"Asia","location":"Pakistan","population":2.20892331E8,"median_age":23.5,"gdp_per_capita":5034.708,"hospital_beds_per_thousand":0.6,"life_expectancy":67.27}
+{"iso_code":"HTI","continent":"North America","location":"Haiti","population":1.1402533E7,"median_age":24.3,"gdp_per_capita":1653.173,"hospital_beds_per_thousand":0.7,"life_expectancy":64.0}
+{"iso_code":"NZL","continent":"Oceania","location":"New Zealand","population":4822233.0,"median_age":37.9,"gdp_per_capita":36085.843,"hospital_beds_per_thousand":2.61,"life_expectancy":82.29}
+{"iso_code":"PSE","continent":"Asia","location":"Palestine","population":5101416.0,"median_age":20.4,"gdp_per_capita":4449.898,"life_expectancy":74.05}
+{"iso_code":"UZB","continent":"Asia","location":"Uzbekistan","population":3.3469199E7,"median_age":28.2,"gdp_per_capita":6253.104,"hospital_beds_per_thousand":4.0,"life_expectancy":71.72}
+{"iso_code":"MUS","continent":"Africa","location":"Mauritius","population":1271767.0,"median_age":37.4,"gdp_per_capita":20292.745,"hospital_beds_per_thousand":3.4,"life_expectancy":74.99}
+{"iso_code":"QAT","continent":"Asia","location":"Qatar","population":2881060.0,"median_age":31.9,"gdp_per_capita":116935.6,"hospital_beds_per_thousand":1.2,"life_expectancy":80.23}
+{"iso_code":"SSD","continent":"Africa","location":"South Sudan","population":1.1193729E7,"median_age":19.2,"gdp_per_capita":1569.888,"life_expectancy":57.85}
+{"iso_code":"BMU","continent":"North America","location":"Bermuda","population":62273.0,"gdp_per_capita":50669.315,"life_expectancy":82.59}
+{"iso_code":"RUS","continent":"Europe","location":"Russia","population":1.4593446E8,"median_age":39.6,"gdp_per_capita":24765.954,"hospital_beds_per_thousand":8.05,"life_expectancy":72.58}
+{"iso_code":"JOR","continent":"Asia","location":"Jordan","population":1.020314E7,"median_age":23.2,"gdp_per_capita":8337.49,"hospital_beds_per_thousand":1.4,"life_expectancy":74.53}
+{"iso_code":"THA","continent":"Asia","location":"Thailand","population":6.9799978E7,"median_age":40.1,"gdp_per_capita":16277.671,"hospital_beds_per_thousand":2.1,"life_expectancy":77.15}
+{"iso_code":"GBR","continent":"Europe","location":"United Kingdom","population":6.7886004E7,"median_age":40.8,"gdp_per_capita":39753.244,"hospital_beds_per_thousand":2.54,"life_expectancy":81.32}
+{"iso_code":"CMR","continent":"Africa","location":"Cameroon","population":2.6545864E7,"median_age":18.8,"gdp_per_capita":3364.926,"hospital_beds_per_thousand":1.3,"life_expectancy":59.29}
+{"iso_code":"TUN","continent":"Africa","location":"Tunisia","population":1.1818618E7,"median_age":32.7,"gdp_per_capita":10849.297,"hospital_beds_per_thousand":2.3,"life_expectancy":76.7}
+{"iso_code":"SLV","continent":"North America","location":"El Salvador","population":6486201.0,"median_age":27.6,"gdp_per_capita":7292.458,"hospital_beds_per_thousand":1.3,"life_expectancy":73.32}
+{"iso_code":"BEL","continent":"Europe","location":"Belgium","population":1.1589616E7,"median_age":41.8,"gdp_per_capita":42658.576,"hospital_beds_per_thousand":5.64,"life_expectancy":81.63}
+{"iso_code":"BLZ","continent":"North America","location":"Belize","population":397621.0,"median_age":25.0,"gdp_per_capita":7824.362,"hospital_beds_per_thousand":1.3,"life_expectancy":74.62}
+{"iso_code":"IRQ","continent":"Asia","location":"Iraq","population":4.0222503E7,"median_age":20.0,"gdp_per_capita":15663.986,"hospital_beds_per_thousand":1.4,"life_expectancy":70.6}
+{"iso_code":"EGY","continent":"Africa","location":"Egypt","population":1.02334403E8,"median_age":25.3,"gdp_per_capita":10550.206,"hospital_beds_per_thousand":1.6,"life_expectancy":71.99}
+{"iso_code":"NPL","continent":"Asia","location":"Nepal","population":2.9136808E7,"median_age":25.0,"gdp_per_capita":2442.804,"hospital_beds_per_thousand":0.3,"life_expectancy":70.78}
+{"iso_code":"LSO","continent":"Africa","location":"Lesotho","population":2142252.0,"median_age":22.2,"gdp_per_capita":2851.153,"life_expectancy":54.33}
+{"iso_code":"FLK","continent":"South America","location":"Falkland Islands","population":3483.0,"life_expectancy":81.44}
+{"iso_code":"ESH","continent":"Africa","location":"Western Sahara","population":597330.0,"median_age":28.4,"life_expectancy":70.26}
+{"iso_code":"CAN","continent":"North America","location":"Canada","population":3.7742157E7,"median_age":41.4,"gdp_per_capita":44017.591,"hospital_beds_per_thousand":2.5,"life_expectancy":82.43}
+{"iso_code":"VNM","continent":"Asia","location":"Vietnam","population":9.7338583E7,"median_age":32.6,"gdp_per_capita":6171.884,"hospital_beds_per_thousand":2.6,"life_expectancy":75.4}
+{"iso_code":"FJI","continent":"Oceania","location":"Fiji","population":896444.0,"median_age":28.6,"gdp_per_capita":8702.975,"hospital_beds_per_thousand":2.3,"life_expectancy":67.44}
+{"iso_code":"BRA","continent":"South America","location":"Brazil","population":2.12559409E8,"median_age":33.5,"gdp_per_capita":14103.452,"hospital_beds_per_thousand":2.2,"life_expectancy":75.88}
+{"iso_code":"RWA","continent":"Africa","location":"Rwanda","population":1.2952209E7,"median_age":20.3,"gdp_per_capita":1854.211,"life_expectancy":69.02}
+{"iso_code":"SDN","continent":"Africa","location":"Sudan","population":4.3849269E7,"median_age":19.7,"gdp_per_capita":4466.507,"hospital_beds_per_thousand":0.8,"life_expectancy":65.31}
+{"iso_code":"WLF","continent":"Oceania","location":"Wallis and Futuna","population":11246.0,"life_expectancy":79.94}
+{"iso_code":"CAF","continent":"Africa","location":"Central African Republic","population":4829764.0,"median_age":18.3,"gdp_per_capita":661.24,"hospital_beds_per_thousand":1.0,"life_expectancy":53.28}
+{"iso_code":"KNA","continent":"North America","location":"Saint Kitts and Nevis","population":53192.0,"gdp_per_capita":24654.385,"hospital_beds_per_thousand":2.3,"life_expectancy":76.23}
+{"iso_code":"GRD","continent":"North America","location":"Grenada","population":112519.0,"median_age":29.4,"gdp_per_capita":13593.877,"hospital_beds_per_thousand":3.7,"life_expectancy":72.4}
+{"iso_code":"LIE","continent":"Europe","location":"Liechtenstein","population":38137.0,"hospital_beds_per_thousand":2.397,"life_expectancy":82.49}
+{"iso_code":"COG","continent":"Africa","location":"Congo","population":5518092.0,"median_age":19.0,"gdp_per_capita":4881.406,"life_expectancy":64.57}
+{"iso_code":"COD","continent":"Africa","location":"Democratic Republic of Congo","population":8.9561404E7,"median_age":17.0,"gdp_per_capita":808.133,"life_expectancy":60.68}
+{"iso_code":"ERI","continent":"Africa","location":"Eritrea","population":3546427.0,"median_age":19.3,"gdp_per_capita":1510.459,"hospital_beds_per_thousand":0.7,"life_expectancy":66.32}
+{"iso_code":"MDV","continent":"Asia","location":"Maldives","population":540542.0,"median_age":30.6,"gdp_per_capita":15183.616,"life_expectancy":78.92}
+{"iso_code":"PNG","continent":"Oceania","location":"Papua New Guinea","population":8947027.0,"median_age":22.6,"gdp_per_capita":3823.194,"life_expectancy":64.5}
+{"iso_code":"CUB","continent":"North America","location":"Cuba","population":1.1326616E7,"median_age":43.1,"hospital_beds_per_thousand":5.2,"life_expectancy":78.8}
+{"iso_code":"FRA","continent":"Europe","location":"France","population":6.5273512E7,"median_age":42.0,"gdp_per_capita":38605.671,"hospital_beds_per_thousand":5.98,"life_expectancy":82.66}
+{"iso_code":"UKR","continent":"Europe","location":"Ukraine","population":4.3733759E7,"median_age":41.4,"gdp_per_capita":7894.393,"hospital_beds_per_thousand":8.8,"life_expectancy":72.06}
+{"iso_code":"TJK","continent":"Asia","location":"Tajikistan","population":9537642.0,"median_age":23.3,"gdp_per_capita":2896.913,"hospital_beds_per_thousand":4.8,"life_expectancy":71.1}
+{"iso_code":"VGB","continent":"North America","location":"British Virgin Islands","population":30237.0,"life_expectancy":79.07}
+{"iso_code":"GEO","continent":"Asia","location":"Georgia","population":3989175.0,"median_age":38.7,"gdp_per_capita":9745.079,"hospital_beds_per_thousand":2.6,"life_expectancy":73.77}
+{"iso_code":"LKA","continent":"Asia","location":"Sri Lanka","population":2.141325E7,"median_age":34.1,"gdp_per_capita":11669.077,"hospital_beds_per_thousand":3.6,"life_expectancy":76.98}
+{"iso_code":"ZAF","continent":"Africa","location":"South Africa","population":5.930869E7,"median_age":27.3,"gdp_per_capita":12294.876,"hospital_beds_per_thousand":2.32,"life_expectancy":64.13}
+{"iso_code":"GRC","continent":"Europe","location":"Greece","population":1.0423056E7,"median_age":45.3,"gdp_per_capita":24574.382,"hospital_beds_per_thousand":4.21,"life_expectancy":82.24}
+{"iso_code":"JPN","continent":"Asia","location":"Japan","population":1.26476458E8,"median_age":48.2,"gdp_per_capita":39002.223,"hospital_beds_per_thousand":13.05,"life_expectancy":84.63}
+{"iso_code":"SAU","continent":"Asia","location":"Saudi Arabia","population":3.4813867E7,"median_age":31.9,"gdp_per_capita":49045.411,"hospital_beds_per_thousand":2.7,"life_expectancy":75.13}
+{"iso_code":"AZE","continent":"Asia","location":"Azerbaijan","population":1.0139175E7,"median_age":32.4,"gdp_per_capita":15847.419,"hospital_beds_per_thousand":4.7,"life_expectancy":73.0}
+{"iso_code":"LCA","continent":"North America","location":"Saint Lucia","population":183629.0,"median_age":34.9,"gdp_per_capita":12951.839,"hospital_beds_per_thousand":1.3,"life_expectancy":76.2}
+{"iso_code":"GHA","continent":"Africa","location":"Ghana","population":3.1072945E7,"median_age":21.1,"gdp_per_capita":4227.63,"hospital_beds_per_thousand":0.9,"life_expectancy":64.07}
+{"iso_code":"PRI","continent":"North America","location":"Puerto Rico","population":2860840.0,"median_age":38.2,"gdp_per_capita":35044.67,"life_expectancy":80.1}
+{"iso_code":"ARM","continent":"Asia","location":"Armenia","population":2963234.0,"median_age":35.7,"gdp_per_capita":8787.58,"hospital_beds_per_thousand":4.2,"life_expectancy":75.09}
+{"iso_code":"GIB","continent":"Europe","location":"Gibraltar","population":33691.0,"life_expectancy":79.93}
+{"iso_code":"TLS","continent":"Asia","location":"Timor","population":1318442.0,"median_age":18.0,"gdp_per_capita":6570.102,"hospital_beds_per_thousand":5.9,"life_expectancy":69.5}
+{"iso_code":"LTU","continent":"Europe","location":"Lithuania","population":2722291.0,"median_age":43.5,"gdp_per_capita":29524.265,"hospital_beds_per_thousand":6.56,"life_expectancy":75.93}
+{"iso_code":"MLI","continent":"Africa","location":"Mali","population":2.0250834E7,"median_age":16.4,"gdp_per_capita":2014.306,"hospital_beds_per_thousand":0.1,"life_expectancy":59.31}
+{"iso_code":"AFG","continent":"Asia","location":"Afghanistan","population":3.8928341E7,"median_age":18.6,"gdp_per_capita":1803.987,"hospital_beds_per_thousand":0.5,"life_expectancy":64.83}
+{"iso_code":"OWID_KOS","continent":"Europe","location":"Kosovo","population":1932774.0,"gdp_per_capita":9795.834}
+{"iso_code":"AUT","continent":"Europe","location":"Austria","population":9006400.0,"median_age":44.4,"gdp_per_capita":45436.686,"hospital_beds_per_thousand":7.37,"life_expectancy":81.54}
+{"iso_code":"HKG","continent":"Asia","location":"Hong Kong","population":7496988.0,"median_age":44.8,"gdp_per_capita":56054.92,"life_expectancy":84.86}
+{"iso_code":"DNK","continent":"Europe","location":"Denmark","population":5792203.0,"median_age":42.3,"gdp_per_capita":46682.515,"hospital_beds_per_thousand":2.5,"life_expectancy":80.9}
+{"iso_code":"BTN","continent":"Asia","location":"Bhutan","population":771612.0,"median_age":28.6,"gdp_per_capita":8708.597,"hospital_beds_per_thousand":1.7,"life_expectancy":71.78}
+{"iso_code":"GUM","continent":"Oceania","location":"Guam","population":168783.0,"median_age":31.4,"life_expectancy":80.07}
+{"iso_code":"EST","continent":"Europe","location":"Estonia","population":1326539.0,"median_age":42.7,"gdp_per_capita":29481.252,"hospital_beds_per_thousand":4.69,"life_expectancy":78.74}
+{"iso_code":"BHS","continent":"North America","location":"Bahamas","population":393248.0,"median_age":34.3,"gdp_per_capita":27717.847,"hospital_beds_per_thousand":2.9,"life_expectancy":73.92}
+{"iso_code":"ATG","continent":"North America","location":"Antigua and Barbuda","population":97928.0,"median_age":32.1,"gdp_per_capita":21490.943,"hospital_beds_per_thousand":3.8,"life_expectancy":77.02}
+{"iso_code":"BWA","continent":"Africa","location":"Botswana","population":2351625.0,"median_age":25.8,"gdp_per_capita":15807.374,"hospital_beds_per_thousand":1.8,"life_expectancy":69.59}
+{"iso_code":"ETH","continent":"Africa","location":"Ethiopia","population":1.14963583E8,"median_age":19.8,"gdp_per_capita":1729.927,"hospital_beds_per_thousand":0.3,"life_expectancy":66.6}
+{"iso_code":"LBN","continent":"Asia","location":"Lebanon","population":6825442.0,"median_age":31.1,"gdp_per_capita":13367.565,"hospital_beds_per_thousand":2.9,"life_expectancy":78.93}
+{"iso_code":"LBR","continent":"Africa","location":"Liberia","population":5057677.0,"median_age":19.2,"gdp_per_capita":752.788,"hospital_beds_per_thousand":0.8,"life_expectancy":64.1}
+{"iso_code":"NER","continent":"Africa","location":"Niger","population":2.4206636E7,"median_age":15.1,"gdp_per_capita":926.0,"hospital_beds_per_thousand":0.3,"life_expectancy":62.42}
+{"iso_code":"UGA","continent":"Africa","location":"Uganda","population":4.5741E7,"median_age":16.4,"gdp_per_capita":1697.707,"hospital_beds_per_thousand":0.5,"life_expectancy":63.37}
+{"iso_code":"OMN","continent":"Asia","location":"Oman","population":5106622.0,"median_age":30.7,"gdp_per_capita":37960.709,"hospital_beds_per_thousand":1.6,"life_expectancy":77.86}
+{"iso_code":"MOZ","continent":"Africa","location":"Mozambique","population":3.1255435E7,"median_age":17.7,"gdp_per_capita":1136.103,"hospital_beds_per_thousand":0.7,"life_expectancy":60.85}
+{"iso_code":"ZMB","continent":"Africa","location":"Zambia","population":1.8383956E7,"median_age":17.7,"gdp_per_capita":3689.251,"hospital_beds_per_thousand":2.0,"life_expectancy":63.89}
+{"iso_code":"GNB","continent":"Africa","location":"Guinea-Bissau","population":1967998.0,"median_age":19.4,"gdp_per_capita":1548.675,"life_expectancy":58.32}
+{"iso_code":"OWID_WRL","location":"World","population":7.794798729E9,"median_age":30.9,"gdp_per_capita":15469.207,"hospital_beds_per_thousand":2.705,"life_expectancy":72.58}
+{"iso_code":"NLD","continent":"Europe","location":"Netherlands","population":1.7134873E7,"median_age":43.2,"gdp_per_capita":48472.545,"hospital_beds_per_thousand":3.32,"life_expectancy":82.28}
+{"iso_code":"URY","continent":"South America","location":"Uruguay","population":3473727.0,"median_age":35.6,"gdp_per_capita":20551.409,"hospital_beds_per_thousand":2.8,"life_expectancy":77.91}
+{"iso_code":"MRT","continent":"Africa","location":"Mauritania","population":4649660.0,"median_age":20.3,"gdp_per_capita":3597.633,"life_expectancy":64.92}
+{"iso_code":"ECU","continent":"South America","location":"Ecuador","population":1.764306E7,"median_age":28.1,"gdp_per_capita":10581.936,"hospital_beds_per_thousand":1.5,"life_expectancy":77.01}
+{"iso_code":"TUR","continent":"Asia","location":"Turkey","population":8.4339067E7,"median_age":31.6,"gdp_per_capita":25129.341,"hospital_beds_per_thousand":2.81,"life_expectancy":77.69}
+{"iso_code":"LAO","continent":"Asia","location":"Laos","population":7275556.0,"median_age":24.4,"gdp_per_capita":6397.36,"hospital_beds_per_thousand":1.5,"life_expectancy":67.92}
+{"iso_code":"MKD","continent":"Europe","location":"Macedonia","population":2083380.0,"median_age":39.1,"gdp_per_capita":13111.214,"hospital_beds_per_thousand":4.28,"life_expectancy":75.8}
+{"iso_code":"GAB","continent":"Africa","location":"Gabon","population":2225728.0,"median_age":23.1,"gdp_per_capita":16562.413,"hospital_beds_per_thousand":6.3,"life_expectancy":66.47}
+{"iso_code":"MDA","continent":"Europe","location":"Moldova","population":4033963.0,"median_age":37.6,"gdp_per_capita":5189.972,"hospital_beds_per_thousand":5.8,"life_expectancy":71.9}
+{"iso_code":"MDG","continent":"Africa","location":"Madagascar","population":2.7691019E7,"median_age":19.6,"gdp_per_capita":1416.44,"hospital_beds_per_thousand":0.2,"life_expectancy":67.04}
+{"iso_code":"CRI","continent":"North America","location":"Costa Rica","population":5094114.0,"median_age":33.6,"gdp_per_capita":15524.995,"hospital_beds_per_thousand":1.13,"life_expectancy":80.28}
+{"iso_code":"TCD","continent":"Africa","location":"Chad","population":1.6425859E7,"median_age":16.7,"gdp_per_capita":1768.153,"life_expectancy":54.24}
+{"iso_code":"CIV","continent":"Africa","location":"Cote d'Ivoire","population":2.6378275E7,"median_age":18.7,"gdp_per_capita":3601.006,"life_expectancy":57.78}
+{"iso_code":"DEU","continent":"Europe","location":"Germany","population":8.3783945E7,"median_age":46.6,"gdp_per_capita":45229.245,"hospital_beds_per_thousand":8.0,"life_expectancy":81.33}
+{"iso_code":"LUX","continent":"Europe","location":"Luxembourg","population":625976.0,"median_age":39.7,"gdp_per_capita":94277.965,"hospital_beds_per_thousand":4.51,"life_expectancy":82.25}
+{"iso_code":"MNG","continent":"Asia","location":"Mongolia","population":3278292.0,"median_age":28.6,"gdp_per_capita":11840.846,"hospital_beds_per_thousand":7.0,"life_expectancy":69.87}
+{"iso_code":"YEM","continent":"Asia","location":"Yemen","population":2.9825968E7,"median_age":20.3,"gdp_per_capita":1479.147,"hospital_beds_per_thousand":0.7,"life_expectancy":66.12}
+{"iso_code":"SRB","continent":"Europe","location":"Serbia","population":6804596.0,"median_age":41.2,"gdp_per_capita":14048.881,"hospital_beds_per_thousand":5.609,"life_expectancy":76.0}
+{"iso_code":"SWE","continent":"Europe","location":"Sweden","population":1.009927E7,"median_age":41.0,"gdp_per_capita":46949.283,"hospital_beds_per_thousand":2.22,"life_expectancy":82.8}
+{"iso_code":"BGR","continent":"Europe","location":"Bulgaria","population":6948445.0,"median_age":44.7,"gdp_per_capita":18563.307,"hospital_beds_per_thousand":7.454,"life_expectancy":75.05}
+{"iso_code":"ARG","continent":"South America","location":"Argentina","population":4.5195777E7,"median_age":31.9,"gdp_per_capita":18933.907,"hospital_beds_per_thousand":5.0,"life_expectancy":76.67}
+{"iso_code":"MLT","continent":"Europe","location":"Malta","population":441539.0,"median_age":42.4,"gdp_per_capita":36513.323,"hospital_beds_per_thousand":4.485,"life_expectancy":82.53}
+{"iso_code":"CHN","continent":"Asia","location":"China","population":1.439323774E9,"median_age":38.7,"gdp_per_capita":15308.712,"hospital_beds_per_thousand":4.34,"life_expectancy":76.91}
+{"iso_code":"CHE","continent":"Europe","location":"Switzerland","population":8654618.0,"median_age":43.1,"gdp_per_capita":57410.166,"hospital_beds_per_thousand":4.53,"life_expectancy":83.78}
+{"iso_code":"BRN","continent":"Asia","location":"Brunei","population":437483.0,"median_age":32.4,"gdp_per_capita":71809.251,"hospital_beds_per_thousand":2.7,"life_expectancy":75.86}
+{"iso_code":"CYM","continent":"North America","location":"Cayman Islands","population":65720.0,"gdp_per_capita":49903.029,"life_expectancy":83.92}
+{"iso_code":"NIC","continent":"North America","location":"Nicaragua","population":6624554.0,"median_age":27.3,"gdp_per_capita":5321.444,"hospital_beds_per_thousand":0.9,"life_expectancy":74.48}
+{"iso_code":"KHM","continent":"Asia","location":"Cambodia","population":1.6718971E7,"median_age":25.6,"gdp_per_capita":3645.07,"hospital_beds_per_thousand":0.8,"life_expectancy":69.82}
+{"iso_code":"IRL","continent":"Europe","location":"Ireland","population":4937796.0,"median_age":38.7,"gdp_per_capita":67335.293,"hospital_beds_per_thousand":2.96,"life_expectancy":82.3}
+{"iso_code":"NOR","continent":"Europe","location":"Norway","population":5421242.0,"median_age":39.7,"gdp_per_capita":64800.057,"hospital_beds_per_thousand":3.6,"life_expectancy":82.4}
+{"iso_code":"ARE","continent":"Asia","location":"United Arab Emirates","population":9890400.0,"median_age":34.0,"gdp_per_capita":67293.483,"hospital_beds_per_thousand":1.2,"life_expectancy":77.97}
+{"iso_code":"DMA","continent":"North America","location":"Dominica","population":71991.0,"gdp_per_capita":9673.367,"hospital_beds_per_thousand":3.8,"life_expectancy":75.0}
+{"iso_code":"KAZ","continent":"Asia","location":"Kazakhstan","population":1.8776707E7,"median_age":30.6,"gdp_per_capita":24055.588,"hospital_beds_per_thousand":6.7,"life_expectancy":73.6}
+{"iso_code":"PER","continent":"South America","location":"Peru","population":3.2971846E7,"median_age":29.1,"gdp_per_capita":12236.706,"hospital_beds_per_thousand":1.6,"life_expectancy":76.74}
+{"iso_code":"SUR","continent":"South America","location":"Suriname","population":586634.0,"median_age":29.6,"gdp_per_capita":13767.119,"hospital_beds_per_thousand":3.1,"life_expectancy":71.68}
+{"iso_code":"VEN","continent":"South America","location":"Venezuela","population":2.8435943E7,"median_age":29.0,"gdp_per_capita":16745.022,"hospital_beds_per_thousand":0.8,"life_expectancy":72.06}
+{"iso_code":"KEN","continent":"Africa","location":"Kenya","population":5.37713E7,"median_age":20.0,"gdp_per_capita":2993.028,"hospital_beds_per_thousand":1.4,"life_expectancy":66.7}
+{"iso_code":"BHR","continent":"Asia","location":"Bahrain","population":1701583.0,"median_age":32.4,"gdp_per_capita":43290.705,"hospital_beds_per_thousand":2.0,"life_expectancy":77.29}
+{"iso_code":"ALB","continent":"Europe","location":"Albania","population":2877800.0,"median_age":38.0,"gdp_per_capita":11803.431,"hospital_beds_per_thousand":2.89,"life_expectancy":78.57}
+{"iso_code":"BIH","continent":"Europe","location":"Bosnia and Herzegovina","population":3280815.0,"median_age":42.5,"gdp_per_capita":11713.895,"hospital_beds_per_thousand":3.5,"life_expectancy":77.4}
+{"iso_code":"CUW","continent":"North America","location":"Curacao","population":164100.0,"median_age":41.7,"life_expectancy":78.88}
+{"iso_code":"BOL","continent":"South America","location":"Bolivia","population":1.1673029E7,"median_age":25.4,"gdp_per_capita":6885.829,"hospital_beds_per_thousand":1.1,"life_expectancy":71.51}
+{"iso_code":"BEN","continent":"Africa","location":"Benin","population":1.2123198E7,"median_age":18.8,"gdp_per_capita":2064.236,"hospital_beds_per_thousand":0.5,"life_expectancy":61.77}
+{"iso_code":"SEN","continent":"Africa","location":"Senegal","population":1.674393E7,"median_age":18.7,"gdp_per_capita":2470.58,"life_expectancy":67.94}
+{"iso_code":"GTM","continent":"North America","location":"Guatemala","population":1.7915567E7,"median_age":22.9,"gdp_per_capita":7423.808,"hospital_beds_per_thousand":0.6,"life_expectancy":74.3}
+{"iso_code":"ISL","continent":"Europe","location":"Iceland","population":341250.0,"median_age":37.3,"gdp_per_capita":46482.958,"hospital_beds_per_thousand":2.91,"life_expectancy":82.99}
+{"iso_code":"SOM","continent":"Africa","location":"Somalia","population":1.5893219E7,"median_age":16.8,"hospital_beds_per_thousand":0.9,"life_expectancy":57.4}
+{"iso_code":"DOM","continent":"North America","location":"Dominican Republic","population":1.0847904E7,"median_age":27.6,"gdp_per_capita":14600.861,"hospital_beds_per_thousand":1.6,"life_expectancy":74.08}
+{"iso_code":"ZWE","continent":"Africa","location":"Zimbabwe","population":1.4862927E7,"median_age":19.6,"gdp_per_capita":1899.775,"hospital_beds_per_thousand":1.7,"life_expectancy":61.49}
+{"iso_code":"NGA","continent":"Africa","location":"Nigeria","population":2.06139587E8,"median_age":18.1,"gdp_per_capita":5338.454,"life_expectancy":54.69}
+{"iso_code":"GGY","continent":"Europe","location":"Guernsey","population":67052.0}
+{"iso_code":"COM","continent":"Africa","location":"Comoros","population":869595.0,"median_age":20.4,"gdp_per_capita":1413.89,"hospital_beds_per_thousand":2.2,"life_expectancy":64.32}
+{"iso_code":"ITA","continent":"Europe","location":"Italy","population":6.0461828E7,"median_age":47.9,"gdp_per_capita":35220.084,"hospital_beds_per_thousand":3.18,"life_expectancy":83.51}
+{"iso_code":"VAT","continent":"Europe","location":"Vatican","population":809.0,"life_expectancy":75.12}
+{"iso_code":"MAR","continent":"Africa","location":"Morocco","population":3.6910558E7,"median_age":29.6,"gdp_per_capita":7485.013,"hospital_beds_per_thousand":1.1,"life_expectancy":76.68}
+{"iso_code":"SYC","continent":"Africa","location":"Seychelles","population":98340.0,"median_age":36.2,"gdp_per_capita":26382.287,"hospital_beds_per_thousand":3.6,"life_expectancy":73.4}
+{"iso_code":"LVA","continent":"Europe","location":"Latvia","population":1886202.0,"median_age":43.9,"gdp_per_capita":25063.846,"hospital_beds_per_thousand":5.57,"life_expectancy":75.29}
+{"iso_code":"MCO","continent":"Europe","location":"Monaco","population":39244.0,"hospital_beds_per_thousand":13.8,"life_expectancy":86.75}
+{"iso_code":"TTO","continent":"North America","location":"Trinidad and Tobago","population":1399491.0,"median_age":36.2,"gdp_per_capita":28763.071,"hospital_beds_per_thousand":3.0,"life_expectancy":73.51}
+{"iso_code":"ESP","continent":"Europe","location":"Spain","population":4.6754783E7,"median_age":45.5,"gdp_per_capita":34272.36,"hospital_beds_per_thousand":2.97,"life_expectancy":83.56}
+{"iso_code":"NAM","continent":"Africa","location":"Namibia","population":2540916.0,"median_age":22.0,"gdp_per_capita":9541.808,"life_expectancy":63.71}
+{"iso_code":"JEY","continent":"Europe","location":"Jersey","population":101073.0}
+{"iso_code":"MHL","continent":"Oceania","location":"Marshall Islands","population":59194.0,"gdp_per_capita":3819.202,"hospital_beds_per_thousand":2.7,"life_expectancy":73.7}
+{"iso_code":"IDN","continent":"Asia","location":"Indonesia","population":2.73523621E8,"median_age":29.3,"gdp_per_capita":11188.744,"hospital_beds_per_thousand":1.04,"life_expectancy":71.72}
+{"iso_code":"DZA","continent":"Africa","location":"Algeria","population":4.3851043E7,"median_age":29.1,"gdp_per_capita":13913.839,"hospital_beds_per_thousand":1.9,"life_expectancy":76.88}
+{"iso_code":"NCL","continent":"Oceania","location":"New Caledonia","population":285491.0,"median_age":33.4,"life_expectancy":77.55}
+{"iso_code":"JAM","continent":"North America","location":"Jamaica","population":2961161.0,"median_age":31.4,"gdp_per_capita":8193.571,"hospital_beds_per_thousand":1.7,"life_expectancy":74.47}
+{"iso_code":"HUN","continent":"Europe","location":"Hungary","population":9660350.0,"median_age":43.4,"gdp_per_capita":26777.561,"hospital_beds_per_thousand":7.02,"life_expectancy":76.88}
+{"iso_code":"SLE","continent":"Africa","location":"Sierra Leone","population":7976985.0,"median_age":19.1,"gdp_per_capita":1390.3,"life_expectancy":54.7}
+{"iso_code":"GIN","continent":"Africa","location":"Guinea","population":1.3132792E7,"median_age":19.0,"gdp_per_capita":1998.926,"hospital_beds_per_thousand":0.3,"life_expectancy":61.6}
+{"iso_code":"LBY","continent":"Africa","location":"Libya","population":6871287.0,"median_age":29.0,"gdp_per_capita":17881.509,"hospital_beds_per_thousand":3.7,"life_expectancy":72.91}
+{"iso_code":"MNE","continent":"Europe","location":"Montenegro","population":628062.0,"median_age":39.1,"gdp_per_capita":16409.288,"hospital_beds_per_thousand":3.861,"life_expectancy":76.88}
+{"iso_code":"GUY","continent":"South America","location":"Guyana","population":786559.0,"median_age":26.3,"gdp_per_capita":7435.047,"hospital_beds_per_thousand":1.6,"life_expectancy":69.91}
+{"iso_code":"VCT","continent":"North America","location":"Saint Vincent and the Grenadines","population":110947.0,"median_age":31.8,"gdp_per_capita":10727.146,"hospital_beds_per_thousand":2.6,"life_expectancy":72.53}
+{"iso_code":"TZA","continent":"Africa","location":"Tanzania","population":5.9734213E7,"median_age":17.7,"gdp_per_capita":2683.304,"hospital_beds_per_thousand":0.7,"life_expectancy":65.46}
+{"iso_code":"BLR","continent":"Europe","location":"Belarus","population":9449321.0,"median_age":40.3,"gdp_per_capita":17167.967,"hospital_beds_per_thousand":11.0,"life_expectancy":74.79}
+{"iso_code":"TWN","continent":"Asia","location":"Taiwan","population":2.3816775E7,"median_age":42.2,"life_expectancy":80.46}
+{"iso_code":"BRB","continent":"North America","location":"Barbados","population":287371.0,"median_age":39.8,"gdp_per_capita":16978.068,"hospital_beds_per_thousand":5.8,"life_expectancy":79.19}
+{"iso_code":"KGZ","continent":"Asia","location":"Kyrgyzstan","population":6524191.0,"median_age":26.3,"gdp_per_capita":3393.474,"hospital_beds_per_thousand":4.5,"life_expectancy":71.45}
+{"iso_code":"PAN","continent":"North America","location":"Panama","population":4314768.0,"median_age":29.7,"gdp_per_capita":22267.037,"hospital_beds_per_thousand":2.3,"life_expectancy":78.51}
+{"iso_code":"VIR","continent":"North America","location":"United States Virgin Islands","population":104423.0,"median_age":42.2,"life_expectancy":80.58}
+{"iso_code":"BGD","continent":"Asia","location":"Bangladesh","population":1.64689383E8,"median_age":27.5,"gdp_per_capita":3523.984,"hospital_beds_per_thousand":0.8,"life_expectancy":72.59}
+{"iso_code":"CHL","continent":"South America","location":"Chile","population":1.9116209E7,"median_age":35.4,"gdp_per_capita":22767.037,"hospital_beds_per_thousand":2.11,"life_expectancy":80.18}
+{"iso_code":"SXM","continent":"North America","location":"Sint Maarten (Dutch part)","population":42882.0,"gdp_per_capita":36327.232,"life_expectancy":78.95}
+{"iso_code":"BFA","continent":"Africa","location":"Burkina Faso","population":2.0903278E7,"median_age":17.6,"gdp_per_capita":1703.102,"hospital_beds_per_thousand":0.4,"life_expectancy":61.58}
+{"iso_code":"ROU","continent":"Europe","location":"Romania","population":1.9237682E7,"median_age":43.0,"gdp_per_capita":23313.199,"hospital_beds_per_thousand":6.892,"life_expectancy":76.05}
+{"iso_code":"CZE","continent":"Europe","location":"Czech Republic","population":1.0708982E7,"median_age":43.3,"gdp_per_capita":32605.906,"hospital_beds_per_thousand":6.63,"life_expectancy":79.38}
+{"iso_code":"BES","continent":"North America","location":"Bonaire Sint Eustatius and Saba","population":26221.0,"life_expectancy":77.79}
+{"iso_code":"MWI","continent":"Africa","location":"Malawi","population":1.9129955E7,"median_age":18.1,"gdp_per_capita":1095.042,"hospital_beds_per_thousand":1.3,"life_expectancy":64.26}
+{"iso_code":"PRT","continent":"Europe","location":"Portugal","population":1.0196707E7,"median_age":46.2,"gdp_per_capita":27936.896,"hospital_beds_per_thousand":3.39,"life_expectancy":82.05}
+{"iso_code":"CYP","continent":"Europe","location":"Cyprus","population":875899.0,"median_age":37.3,"gdp_per_capita":32415.132,"hospital_beds_per_thousand":3.4,"life_expectancy":80.98}
+{"iso_code":"TGO","continent":"Africa","location":"Togo","population":8278737.0,"median_age":19.4,"gdp_per_capita":1429.813,"hospital_beds_per_thousand":0.7,"life_expectancy":61.04}
+{"iso_code":"AUS","continent":"Oceania","location":"Australia","population":2.5499881E7,"median_age":37.9,"gdp_per_capita":44648.71,"hospital_beds_per_thousand":3.84,"life_expectancy":83.44}
+{"iso_code":"KOR","continent":"Asia","location":"South Korea","population":5.1269183E7,"median_age":43.4,"gdp_per_capita":35938.374,"hospital_beds_per_thousand":12.27,"life_expectancy":83.03}
+{"iso_code":"AIA","continent":"North America","location":"Anguilla","population":15002.0,"life_expectancy":81.88}
+{"iso_code":"PYF","continent":"Oceania","location":"French Polynesia","population":280904.0,"median_age":32.7,"life_expectancy":77.66}
+{"iso_code":"PHL","continent":"Asia","location":"Philippines","population":1.09581085E8,"median_age":25.2,"gdp_per_capita":7599.188,"hospital_beds_per_thousand":1.0,"life_expectancy":71.23}
+{"iso_code":"SWZ","continent":"Africa","location":"Swaziland","population":1160164.0,"median_age":21.5,"gdp_per_capita":7738.975,"hospital_beds_per_thousand":2.1,"life_expectancy":60.19}
+{"iso_code":"AND","continent":"Europe","location":"Andorra","population":77265.0,"life_expectancy":83.73}
+{"iso_code":"STP","continent":"Africa","location":"Sao Tome and Principe","population":219161.0,"median_age":18.7,"gdp_per_capita":3052.714,"hospital_beds_per_thousand":2.9,"life_expectancy":70.39}
+{"iso_code":"GRL","continent":"North America","location":"Greenland","population":56772.0,"life_expectancy":71.7}
+{"iso_code":"TCA","continent":"North America","location":"Turks and Caicos Islands","population":38718.0,"life_expectancy":80.22}

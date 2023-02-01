@@ -1,0 +1,501 @@
+40|News|12
+29|TV Show|17
+52|Movie|9
+87|Sport|10
+34|Sport|19
+14|News|39
+16|TV Show|15
+27|Sport|24
+16|TV Show|20
+86|Comedy|14
+43|News|34
+27|Movie|22
+62|Music Video|30
+34|Movie|29
+25|Sport|21
+71|Comedy|25
+19|Gaming|18
+52|Sport|39
+87|Movie|39
+98|Gaming|39
+93|Music Video|19
+93|Sport|27
+54|TV Show|3
+29|Gaming|30
+10|Comedy|10
+39|TV Show|19
+20|Sport|30
+87|Gaming|20
+70|Sport|31
+81|Music Video|22
+94|Gaming|24
+7|Gaming|24
+28|TV Show|27
+52|Music Video|5
+71|TV Show|26
+42|Comedy|12
+67|News|34
+47|Comedy|7
+41|Comedy|30
+90|Comedy|3
+78|News|14
+30|Sport|1
+69|Sport|13
+49|Comedy|14
+73|Comedy|38
+79|Music Video|6
+46|TV Show|26
+12|News|14
+40|Movie|38
+21|Music Video|30
+51|News|20
+79|News|14
+54|TV Show|39
+10|Sport|23
+5|Music Video|34
+94|Gaming|0
+26|Sport|38
+97|Music Video|37
+68|Music Video|23
+72|Gaming|9
+45|Movie|10
+30|News|15
+99|Music Video|21
+52|Gaming|11
+56|Comedy|31
+87|Comedy|39
+27|Comedy|23
+15|News|14
+62|Sport|32
+8|Movie|5
+89|Music Video|39
+23|Movie|3
+87|Movie|32
+5|Comedy|10
+83|Sport|7
+54|Sport|38
+8|Gaming|8
+75|Comedy|36
+25|Sport|36
+77|Movie|14
+38|Sport|12
+57|Comedy|19
+82|TV Show|20
+82|Movie|36
+86|Gaming|32
+86|TV Show|39
+86|Comedy|17
+93|TV Show|37
+83|Movie|17
+81|News|35
+3|Movie|6
+24|TV Show|28
+83|News|30
+12|Music Video|34
+15|Sport|22
+92|Sport|8
+20|Movie|36
+78|Movie|37
+41|Music Video|37
+69|Comedy|38
+98|Sport|16
+84|Music Video|38
+41|News|23
+44|Movie|28
+11|Music Video|38
+44|Sport|28
+98|TV Show|14
+51|Comedy|35
+15|News|0
+74|News|36
+94|Sport|23
+49|Gaming|7
+58|News|18
+67|Music Video|0
+65|Gaming|4
+61|Gaming|21
+73|News|18
+95|News|31
+27|Sport|20
+91|Gaming|17
+96|Gaming|21
+14|Comedy|9
+45|TV Show|23
+18|Comedy|26
+54|TV Show|12
+19|TV Show|37
+56|Music Video|15
+16|Comedy|3
+43|Movie|37
+14|Comedy|25
+4|News|8
+28|Comedy|16
+95|Music Video|6
+33|Gaming|21
+83|Music Video|17
+61|Music Video|26
+69|Sport|36
+22|Music Video|20
+81|Sport|4
+17|Comedy|0
+98|Gaming|33
+0|Gaming|1
+22|Music Video|39
+29|Music Video|20
+72|TV Show|3
+71|Movie|2
+35|News|29
+71|Gaming|22
+95|Comedy|8
+86|Movie|27
+10|Comedy|32
+51|Sport|0
+50|Sport|23
+28|Movie|10
+49|Movie|21
+67|Sport|14
+80|TV Show|27
+35|TV Show|19
+45|Gaming|2
+47|TV Show|0
+11|News|16
+42|Gaming|31
+53|Movie|28
+24|News|7
+38|News|39
+13|News|6
+65|News|17
+39|Sport|1
+90|News|22
+44|Movie|14
+93|News|5
+39|Sport|34
+26|Sport|15
+81|Music Video|14
+11|Sport|33
+25|Gaming|24
+52|News|27
+90|Comedy|12
+37|Gaming|6
+45|Movie|26
+5|Gaming|39
+59|News|8
+85|Movie|23
+2|Gaming|29
+33|Comedy|36
+44|Movie|19
+44|TV Show|38
+69|TV Show|36
+69|Sport|36
+52|Music Video|0
+81|Sport|21
+59|Comedy|27
+38|Gaming|8
+71|Sport|13
+35|Music Video|21
+61|Sport|7
+86|Music Video|23
+30|Movie|29
+93|Movie|20
+94|Movie|37
+46|TV Show|0
+25|TV Show|5
+34|Music Video|15
+97|Gaming|36
+46|TV Show|15
+88|TV Show|9
+46|Gaming|24
+4|Movie|8
+69|Music Video|22
+60|Comedy|11
+91|Comedy|2
+89|Movie|38
+54|Comedy|3
+38|Sport|17
+70|Gaming|32
+36|Gaming|6
+33|Music Video|14
+90|Movie|0
+73|News|36
+98|Gaming|1
+84|Music Video|6
+93|News|16
+22|TV Show|19
+37|Movie|32
+24|TV Show|25
+84|Gaming|29
+43|Comedy|14
+36|Music Video|37
+7|Music Video|25
+2|Music Video|22
+53|Sport|37
+94|Comedy|1
+57|Music Video|14
+25|Gaming|30
+59|Comedy|28
+23|Sport|26
+99|Sport|5
+19|News|6
+15|Movie|16
+56|Music Video|25
+93|Movie|23
+31|Sport|11
+32|Sport|36
+37|TV Show|29
+58|Gaming|39
+22|Sport|25
+19|Comedy|12
+20|Comedy|38
+34|Comedy|35
+44|Comedy|28
+49|Gaming|27
+0|Gaming|8
+29|Gaming|19
+52|Gaming|31
+71|Music Video|32
+44|Comedy|18
+63|Movie|31
+93|Gaming|19
+88|Gaming|36
+95|Movie|20
+25|Sport|9
+58|Sport|22
+91|TV Show|0
+82|Gaming|35
+70|Music Video|4
+13|News|37
+32|News|26
+13|Gaming|17
+47|TV Show|36
+44|Comedy|15
+66|Movie|14
+90|Gaming|21
+70|Movie|28
+33|Comedy|16
+8|Movie|33
+47|Movie|11
+26|Music Video|7
+25|News|6
+10|Movie|25
+3|News|32
+27|News|22
+20|Movie|20
+71|TV Show|25
+37|News|6
+44|Music Video|31
+72|News|1
+47|Music Video|9
+69|Comedy|39
+57|Music Video|6
+63|Sport|4
+27|Comedy|35
+48|Comedy|1
+81|Comedy|13
+58|TV Show|39
+97|Comedy|9
+11|Movie|37
+58|Movie|14
+41|Sport|29
+35|TV Show|35
+4|Comedy|37
+16|TV Show|1
+89|Music Video|10
+75|Movie|36
+33|Music Video|33
+8|Music Video|0
+38|Gaming|5
+0|Comedy|13
+21|Music Video|5
+85|Comedy|24
+49|Sport|12
+18|News|34
+89|Sport|10
+81|Movie|26
+18|Comedy|28
+84|Music Video|8
+76|Music Video|38
+77|News|23
+80|TV Show|3
+12|TV Show|1
+80|Gaming|2
+96|Comedy|2
+57|Movie|20
+99|Gaming|15
+58|News|23
+98|Movie|30
+14|Movie|31
+54|Sport|29
+85|Sport|13
+41|TV Show|16
+47|TV Show|3
+41|Comedy|3
+66|Sport|32
+69|Sport|7
+16|Movie|33
+75|Gaming|16
+99|Movie|25
+37|Sport|39
+45|TV Show|7
+88|Music Video|27
+14|Music Video|6
+3|Sport|29
+92|News|29
+98|Gaming|11
+93|Comedy|38
+72|Comedy|29
+81|News|7
+19|Music Video|13
+81|Movie|36
+73|Music Video|15
+41|TV Show|32
+77|Movie|28
+73|Movie|38
+58|Gaming|31
+20|Music Video|39
+45|Sport|35
+85|Comedy|18
+68|Comedy|18
+30|News|17
+5|Comedy|6
+39|Comedy|37
+31|News|14
+73|News|27
+36|Comedy|24
+97|Sport|0
+59|Gaming|19
+78|Gaming|18
+76|Gaming|6
+85|Gaming|17
+19|Gaming|29
+34|Movie|25
+7|TV Show|9
+6|Sport|18
+64|Comedy|35
+4|TV Show|22
+12|Sport|1
+72|TV Show|25
+24|Music Video|33
+57|Sport|26
+69|Music Video|36
+57|Music Video|37
+35|Gaming|2
+91|News|36
+2|Gaming|39
+63|Sport|8
+55|Movie|17
+19|Movie|8
+8|Gaming|13
+17|Comedy|23
+52|Music Video|37
+6|Sport|1
+20|Music Video|11
+54|News|34
+43|TV Show|36
+7|News|16
+28|TV Show|12
+88|Gaming|17
+84|TV Show|0
+44|Gaming|0
+11|Comedy|32
+26|Gaming|20
+95|Sport|22
+22|Comedy|0
+94|Sport|9
+34|Movie|22
+89|Movie|6
+51|Comedy|20
+95|Sport|22
+82|Gaming|39
+0|Sport|4
+71|Comedy|9
+38|Sport|25
+34|News|36
+48|Movie|36
+55|News|19
+47|Music Video|37
+26|Comedy|5
+53|News|28
+86|Comedy|36
+5|Sport|7
+3|Gaming|9
+77|Sport|3
+70|Gaming|27
+82|Movie|29
+61|Music Video|16
+43|Sport|22
+36|News|7
+96|News|28
+51|Sport|6
+90|News|27
+76|Sport|23
+17|Gaming|20
+99|Comedy|8
+77|Gaming|39
+96|Sport|8
+60|Sport|0
+68|Gaming|30
+65|News|33
+91|Music Video|2
+90|Sport|16
+70|Sport|20
+73|Movie|1
+54|News|39
+93|Movie|32
+22|Movie|14
+74|Sport|10
+83|Movie|17
+7|Music Video|2
+88|Gaming|7
+54|News|20
+6|Music Video|15
+24|Sport|37
+17|Sport|37
+23|Movie|22
+93|News|11
+30|Movie|34
+97|TV Show|3
+93|Music Video|1
+32|Movie|4
+13|Movie|12
+54|TV Show|3
+41|News|15
+47|Music Video|35
+28|Sport|22
+48|Movie|16
+77|News|18
+37|Sport|4
+34|Comedy|1
+10|Comedy|21
+20|Music Video|24
+73|Comedy|4
+7|Movie|27
+81|Sport|28
+83|Gaming|4
+70|Gaming|17
+22|Gaming|20
+24|Sport|22
+67|TV Show|32
+23|Sport|18
+96|Gaming|26
+55|News|27
+27|Sport|29
+7|Movie|36
+56|Movie|13
+29|Music Video|14
+98|Music Video|29
+5|Gaming|38
+22|Movie|21
+78|TV Show|15
+50|Music Video|7
+36|Sport|10
+18|TV Show|24
+62|Movie|37
+27|Movie|17
+49|TV Show|9
+74|Sport|24
+8|Movie|23
+26|Comedy|28
+44|Gaming|9
+51|Music Video|26
+23|Music Video|23
+95|Movie|9
