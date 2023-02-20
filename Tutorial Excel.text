@@ -1,0 +1,36 @@
+<#if(True();=CELL("contents",INDIRECT(ADDRESS(ROW(),COLUMN() - 1))) - CELL("contents",INDIRECT(ADDRESS(ROW(),COLUMN() + 1)));)><#AltFormat>
+
+<#FormatNumber(<#ListData.SoChuaPhanBo>)><#AltFormat>
+
+<#if(True();=SUM(OFFSET($L$10,0, 0,CELL("contents",INDIRECT(ADDRESS(ROW(),11)))));)><#AltFormat>
+
+<#if(<#Items.Model.IsHangCha>=false;<#LstGiaTri.fTuChi>;
+=SUMIF(OFFSET($L$10,0, 0,CELL("contents",INDIRECT(ADDRESS(ROW(),11)))),
+CELL("contents",INDIRECT(ADDRESS(ROW(),13))),
+OFFSET(INDIRECT(ADDRESS(10, COLUMN())),0, 0, CELL("contents",INDIRECT(ADDRESS(ROW(),11))))))>
+<#AltFormat>
+
+=SUMIF(OFFSET($L$10,0, 0,CELL("contents",INDIRECT(ADDRESS(ROW(),11)))),
+CELL("contents",INDIRECT(ADDRESS(ROW(),13))),
+OFFSET(INDIRECT(ADDRESS(10, COLUMN())),0, 0, CELL("contents",INDIRECT(ADDRESS(ROW(),11)))))
+
+
+- Dự toán: <#TienBangChuDuToan>							
+- Đã cấp: <#TienBangChuDaCap>							
+- Dự kiến: <#TienBangChuCapPhat>							
+
+<#FormatNumber(<#ListData.DuToanDuocGiao>)><#AltFormat>
+
+<#if(<#ListData.bHangCha>=false;<#ListData.DuToanDuocGiao>;=SUMIF(OFFSET($D$9,0,0,CELL("contents",INDIRECT(ADDRESS(6,2)))),CELL("contents",INDIRECT(ADDRESS(ROW(),3))),OFFSET(INDIRECT(ADDRESS(9,COLUMN())),0,0,CELL("contents",INDIRECT(ADDRESS(6,2))))))><#AltFormat>
+
+<#if(<#ListData.bHangCha>=false;<#FormatNumber(<#Items.fTuChi>)>;=SUMIF(OFFSET($B$11,0,0,CELL("contents",INDIRECT(ADDRESS(9,1)))),CELL("contents",INDIRECT(ADDRESS(ROW(),3))),OFFSET(INDIRECT(ADDRESS(11,COLUMN())),0,0,CELL("contents",INDIRECT(ADDRESS(9,1)))))><#AltFormat>
+
+
+=SUMIF(OFFSET($L$12,0, 0, CELL("contents",INDIRECT(ADDRESS(12,10)))),"00000000-0000-0000-0000-000000000000",
+OFFSET(INDIRECT(ADDRESS(12, COLUMN())),0, 0, CELL("contents",INDIRECT(ADDRESS(12,10)))))
+
+=SUM(OFFSET(INDIRECT(ADDRESS(12, COLUMN())),0, 0, CELL("contents",INDIRECT(ADDRESS(12,3)))))
+=SUM(E12:AAZ12)
+
+
+<#IF(<#Items.SM>="";<#if(AND(<#Items.SL>="",<#Items.SK>="");<#Items.SLns>;<#Items.SL>-<#Items.SK>)>;)><#AltFormat>
