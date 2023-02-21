@@ -62,6 +62,21 @@ private string GetLevelTitle(DmChuKy dmChuKy, int level)
   }
 }
 
+private string GetLevelTitle(DmChuKy dmChuKy, int level)
+{
+  var loaiDVBanHanh = dmChuKy.GetType().GetProperty($"LoaiDVBanHanh{level}").GetValue(dmChuKy)?.ToString() ?? string.Empty;
+  var danhMuc = _danhMucService.FindByType(TypeDanhMuc.DM_CAUHINH, _sessionService.Current.YearOfWork).ToDictionary(dm => dm.IIDMaDanhMuc);
+
+  return loaiDVBanHanh switch
+  {
+    LoaiDonViBanHanh.DON_VI_QUAN_LY => danhMuc.GetValueOrDefault(MaDanhMuc.DV_QUANLY, new DanhMuc())?.SGiaTri ?? string.Empty,
+    LoaiDonViBanHanh.DON_VI_SU_DUNG => _sessionService.Current.TenDonVi,
+    LoaiDonViBanHanh.CAP_QUAN_LY_TAI_CHINH => danhMuc.GetValueOrDefault(MaDanhMuc.DV_THONGTRI_BANHANH, new DanhMuc())?.SGiaTri ?? string.Empty,
+    LoaiDonViBanHanh.DON_VI_DUOC_CHON => "CÁC ĐƠN VỊ",
+    LoaiDonViBanHanh.TUY_CHINH => dmChuKy.GetType().GetProperty($"TenDVBanHanh{level}").GetValue(dmChuKy)?.ToString() ?? string.Empty,
+    _ => string.Empty
+  };
+}
 
 public delegate void DataChangedEventHandler(object sender, EventArgs e);
 public event DataChangedEventHandler ClosePopup;
